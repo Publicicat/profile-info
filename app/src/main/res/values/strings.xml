@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Testing</string>
+    <string name="edit_message">Nombre completo</string>
+    <string name="button_send">Send</string>
+    <string name="edit_tel">Su telefono</string>
+    <string name="edit_email">Su email</string>
+    <string name="edit_description">Su descripcion</string>
+    <string name="place_tel">Su telefono no se grabó</string>
+    <string name="place_name">Su nombre no se grabó</string>
+    <string name="place_email">Su email no se grabó</string>
+    <string name="place_desc">Su descripción no se grabó</string>
+    <string name="place_calen">Su fecha no se grabó</string>
+    <string name="place_title">Editar Datos</string>
+    <string name="place_editdatos">Editar Datos</string>
+    <string name="button_check">Restore</string>
+    <string name="text_view_date">Seleccione su fecha de nacimiento</string>
+</resources>
